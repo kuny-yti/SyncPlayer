@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file>video_output_color.fs.glsl</file>
+    </qresource>
+</RCC>
