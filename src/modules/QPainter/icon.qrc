@@ -1,0 +1,5 @@
+<RCC>
+	<qresource>
+		<file alias="Qt">Qt.png</file>
+	</qresource>
+</RCC>

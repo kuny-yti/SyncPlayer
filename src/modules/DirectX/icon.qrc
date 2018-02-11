@@ -1,0 +1,5 @@
+<RCC>
+	<qresource>
+		<file alias="DirectX">DirectX.png</file>
+	</qresource>
+</RCC>
