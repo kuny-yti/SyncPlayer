@@ -1,0 +1,5 @@
+<RCC>
+	<qresource>
+		<file alias="ALSA">ALSA.png</file>
+	</qresource>
+</RCC>
